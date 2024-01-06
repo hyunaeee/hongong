@@ -1,5 +1,3 @@
 #honggong
-#혼공머신
-#ML
-#AI
-#deeplearning
+혼공머신
+ML / AI / deeplearning
