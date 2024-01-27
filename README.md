@@ -3,3 +3,4 @@
 ML / AI / deeplearning
 numpy/
 scikit-learn/keras
+tensorflow/pytorch
