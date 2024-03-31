@@ -3,4 +3,4 @@ honggong/
 ML / deep-learning / machine-learning
 numpy/
 scikit-learn/keras
-tensorflow/pytorch/
+tensorflow/
